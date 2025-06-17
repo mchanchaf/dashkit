@@ -16971,10 +16971,10 @@ tbody th {
     width: var(--bs-avatar-size);
 }
 .avatar:after {
-    background-image: url(../img/masks/avatar-status.svg),
-        url(../img/masks/avatar-group.svg),
-        url(../img/masks/avatar-group-hover.svg),
-        url(../img/masks/avatar-group-hover-last.svg);
+    background-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-status.svg),
+        url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-group.svg),
+        url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-group-hover.svg),
+        url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-group-hover-last.svg);
     content: "";
     height: 0;
     position: absolute;
@@ -17008,8 +17008,8 @@ tbody th {
 }
 .avatar-offline .avatar-img,
 .avatar-online .avatar-img {
-    -webkit-mask-image: url(../img/masks/avatar-status.svg);
-    mask-image: url(../img/masks/avatar-status.svg);
+    -webkit-mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-status.svg);
+    mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-status.svg);
     -webkit-mask-size: 100% 100%;
     mask-size: 100% 100%;
 }
@@ -17047,8 +17047,8 @@ tbody th {
     margin-left: calc(var(--bs-avatar-size) * 0.25 * -1);
 }
 .avatar-group .avatar:not(:last-child) {
-    -webkit-mask-image: url(../img/masks/avatar-group.svg);
-    mask-image: url(../img/masks/avatar-group.svg);
+    -webkit-mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-group.svg);
+    mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-group.svg);
     -webkit-mask-size: 100% 100%;
     mask-size: 100% 100%;
 }
@@ -17058,14 +17058,14 @@ tbody th {
     z-index: 1;
 }
 .avatar-group .avatar:hover + .avatar {
-    -webkit-mask-image: url(../img/masks/avatar-group-hover.svg);
-    mask-image: url(../img/masks/avatar-group-hover.svg);
+    -webkit-mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-group-hover.svg);
+    mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-group-hover.svg);
     -webkit-mask-size: 100% 100%;
     mask-size: 100% 100%;
 }
 .avatar-group .avatar:hover + .avatar:last-child {
-    -webkit-mask-image: url(../img/masks/avatar-group-hover-last.svg);
-    mask-image: url(../img/masks/avatar-group-hover-last.svg);
+    -webkit-mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-group-hover-last.svg);
+    mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/avatar-group-hover-last.svg);
 }
 [data-bs-theme="dark"] .avatar {
     --bs-avatar-title-bg: var(--bs-gray-600-dark);
@@ -17252,8 +17252,8 @@ tbody th {
     position: relative;
 }
 .icon.active > .fe {
-    -webkit-mask-image: url(../img/masks/icon-status.svg);
-    mask-image: url(../img/masks/icon-status.svg);
+    -webkit-mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/icon-status.svg);
+    mask-image: url(https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/masks/icon-status.svg);
     -webkit-mask-size: 100% 100%;
     mask-size: 100% 100%;
 }
