@@ -14249,39 +14249,39 @@ button:focus {
     font-family: Cerebri Sans;
     font-style: normal;
     font-weight: 400;
-    src: url(../fonts/cerebrisans/cerebrisans-regular.eot);
-    src: url(../fonts/cerebrisans/cerebrisans-regular-1.eot)
+    src: url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-regular-1.eot')
             format("embedded-opentype"),
-        url(../fonts/cerebrisans/cerebrisans-regular.woff) format("woff"),
-        url(../fonts/cerebrisans/cerebrisans-regular.ttf) format("truetype");
+        url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-regular.woff') format("woff"),
+        url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-regular.ttf') format("truetype");
 }
 @font-face {
     font-family: Cerebri Sans;
     font-style: normal;
     font-weight: 500;
-    src: url(../fonts/cerebrisans/cerebrisans-medium.eot);
-    src: url(../fonts/cerebrisans/cerebrisans-medium-1.eot)
+    src: url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-medium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-medium-1.eot')
             format("embedded-opentype"),
-        url(../fonts/cerebrisans/cerebrisans-medium.woff) format("woff"),
-        url(../fonts/cerebrisans/cerebrisans-medium.ttf) format("truetype");
+        url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-medium.woff') format("woff"),
+        url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-medium.ttf') format("truetype");
 }
 @font-face {
     font-family: Cerebri Sans;
     font-style: normal;
     font-weight: 600;
-    src: url(../fonts/cerebrisans/cerebrisans-semibold.eot);
-    src: url(../fonts/cerebrisans/cerebrisans-semibold-1.eot)
+    src: url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-semibold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-semibold-1.eot')
             format("embedded-opentype"),
-        url(../fonts/cerebrisans/cerebrisans-semibold.woff) format("woff"),
-        url(../fonts/cerebrisans/cerebrisans-semibold.ttf) format("truetype");
+        url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-semibold.ttf') format("woff"),
+        url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/cerebrisans/cerebrisans-semibold.woff') format("truetype");
 }
 @font-face {
     font-family: Feather;
     font-style: normal;
     font-weight: 400;
-    src: url(../fonts/feather/Feather.ttf) format("truetype"),
-        url(../fonts/feather/Feather.woff) format("woff"),
-        url(../fonts/feather/Feather.svg) format("svg");
+    src: url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/feather/Feather.ttf') format("truetype"),
+        url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/feather/Feather.woff') format("woff"),
+        url('https://cdn.jsdelivr.net/gh/mchanchaf/dashkit@main/fonts/feather/Feather.svg') format("svg");
 }
 .table {
     --bs-table-head-bg: var(--bs-gray-100);
